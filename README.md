@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akib-Vijapura/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Akib-Vijapura/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/Akib-Vijapura/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0564-find-the-closest-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Akib-Vijapura/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 ## String
