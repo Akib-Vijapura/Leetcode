@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akib-Vijapura/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Akib-Vijapura/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akib-Vijapura/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akib-Vijapura/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Akib-Vijapura/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Recursion
 |  |
 | ------- |
