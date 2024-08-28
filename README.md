@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Akib-Vijapura/Leetcode/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Akib-Vijapura/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bit Manipulation
 |  |
