@@ -1,23 +1,19 @@
 class Solution {
 public:
+    int fib(int n) {
 
-    int fibno(int n, vector<int> &dp){
-
-        if(n <= 1){
+        if (n <= 1) {
             return n;
         }
 
-        if(dp[n] != -1){
-            return dp[n];
+        int curr, prev1 = 0, prev = 1;
+
+        for (int i = 2; i <= n; i++) {
+            curr = prev + prev1;
+            prev1 = prev;
+            prev = curr;
         }
 
-        return dp[n] = fibno(n-1 , dp) + fibno(n-2 , dp);
-    }
-
-    int fib(int n) {
-
-        vector<int> dp(n+1 , -1);
-
-        return fibno(n , dp);
+        return curr;
     }
 };
