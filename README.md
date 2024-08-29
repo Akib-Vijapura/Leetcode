@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akib-Vijapura/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0039-combination-sum) |
 | [0118-pascals-triangle](https://github.com/Akib-Vijapura/Leetcode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Akib-Vijapura/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0137-single-number-ii) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Akib-Vijapura/Leetcode/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
