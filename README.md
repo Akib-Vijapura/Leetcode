@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akib-Vijapura/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0091-decode-ways](https://github.com/Akib-Vijapura/Leetcode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Akib-Vijapura/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0564-find-the-closest-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akib-Vijapura/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Akib-Vijapura/Leetcode/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Akib-Vijapura/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Akib-Vijapura/Leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akib-Vijapura/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
