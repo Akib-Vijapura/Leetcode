@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akib-Vijapura/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/Akib-Vijapura/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Akib-Vijapura/Leetcode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Akib-Vijapura/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0137-single-number-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Akib-Vijapura/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Akib-Vijapura/Leetcode/tree/master/0134-gas-station) |
 ## Tree
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akib-Vijapura/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Akib-Vijapura/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Akib-Vijapura/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akib-Vijapura/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Akib-Vijapura/Leetcode/tree/master/0091-decode-ways) |
