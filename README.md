@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akib-Vijapura/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akib-Vijapura/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Akib-Vijapura/Leetcode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akib-Vijapura/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akib-Vijapura/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akib-Vijapura/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
 ## Linked List
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akib-Vijapura/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Akib-Vijapura/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akib-Vijapura/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Akib-Vijapura/Leetcode/tree/master/2035-count-sub-islands) |
 ## Trie
 |  |
