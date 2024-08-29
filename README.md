@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akib-Vijapura/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0118-pascals-triangle](https://github.com/Akib-Vijapura/Leetcode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Akib-Vijapura/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akib-Vijapura/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akib-Vijapura/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Akib-Vijapura/Leetcode/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/Akib-Vijapura/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Akib-Vijapura/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Akib-Vijapura/Leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akib-Vijapura/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
