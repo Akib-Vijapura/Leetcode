@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2035-count-sub-islands](https://github.com/Akib-Vijapura/Leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bit Manipulation
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Akib-Vijapura/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sorting
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/Akib-Vijapura/Leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Memoization
 |  |
 | ------- |
