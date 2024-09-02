@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Akib-Vijapura/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Akib-Vijapura/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sorting
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Akib-Vijapura/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Akib-Vijapura/Leetcode/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Akib-Vijapura/Leetcode/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
