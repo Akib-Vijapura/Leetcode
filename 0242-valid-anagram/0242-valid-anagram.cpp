@@ -1,17 +1,25 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char , int> mp1;
-        unordered_map<char , int> mp2;
+        vector<int> count(26 , 0);
 
         for(auto c : s){
-            mp1[c]++;
+            count[c - 97]++;
         }
 
         for(auto c : t){
-            mp2[c]++;
+            if(count[c - 97] == 0){
+                return false;
+            }
+            count[c - 97]--;
         }
 
-        return mp1 == mp2;
+        for(int i = 0 ; i < 26 ; i++){
+            if(count[i] != 0){
+                return false;
+            }
+        }
+
+        return true;
     }
 };
