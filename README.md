@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0148-sort-list) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Akib-Vijapura/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Akib-Vijapura/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Akib-Vijapura/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Akib-Vijapura/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Akib-Vijapura/Leetcode/tree/master/0168-excel-sheet-column-title) |
