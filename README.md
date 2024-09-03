@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akib-Vijapura/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Akib-Vijapura/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Akib-Vijapura/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Akib-Vijapura/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akib-Vijapura/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Akib-Vijapura/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Akib-Vijapura/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Akib-Vijapura/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Akib-Vijapura/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Akib-Vijapura/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Akib-Vijapura/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Akib-Vijapura/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Akib-Vijapura/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Akib-Vijapura/Leetcode/tree/master/0139-word-break) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Akib-Vijapura/Leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
