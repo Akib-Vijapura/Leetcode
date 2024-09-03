@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Akib-Vijapura/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1013-fibonacci-number](https://github.com/Akib-Vijapura/Leetcode/tree/master/1013-fibonacci-number) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Akib-Vijapura/Leetcode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akib-Vijapura/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Akib-Vijapura/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Akib-Vijapura/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sorting
