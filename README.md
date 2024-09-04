@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akib-Vijapura/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0143-reorder-list) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Akib-Vijapura/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Akib-Vijapura/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Akib-Vijapura/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akib-Vijapura/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Akib-Vijapura/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Akib-Vijapura/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Akib-Vijapura/Leetcode/tree/master/0062-unique-paths) |
