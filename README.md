@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Akib-Vijapura/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Akib-Vijapura/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Akib-Vijapura/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Akib-Vijapura/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Akib-Vijapura/Leetcode/tree/master/0961-long-pressed-name) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Akib-Vijapura/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Stack
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akib-Vijapura/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
