@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Akib-Vijapura/Leetcode/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Akib-Vijapura/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akib-Vijapura/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0932-monotonic-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Akib-Vijapura/Leetcode/tree/master/0941-sort-array-by-parity) |
