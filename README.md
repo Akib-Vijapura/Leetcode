@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Akib-Vijapura/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Akib-Vijapura/Leetcode/tree/master/0961-long-pressed-name) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Akib-Vijapura/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1542-consecutive-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/1542-consecutive-characters) |
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
