@@ -1,41 +1,33 @@
 class Solution {
 public:
+    bool isval(char ch) {
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
+               ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U';
+    }
     bool halvesAreAlike(string s) {
         int n = s.size();
         int half = n / 2;
 
-        string a = "";
-        string b = "";
+        int i = 0;
+        int j = half;
 
-        for (int i = 0; i < half; i++) {
-            a += s[i];
-        }
+        int counter1 = 0;
+        int counter2 = 0;
 
-        for (int i = half; i < n; i++) {
-            b += s[i];
-        }
+        while (i < half && j < n) {
 
-        int count1 = 0;
-        int count2 = 0;
-
-        for (auto c : a) {
-            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||
-                c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U') {
-                count1++;
+            if (isval(s[i])) {
+                counter1++;
             }
-        }
 
-        for (auto c : b) {
-            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||
-                c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U') {
-                count2++;
+            if (isval(s[j])) {
+                counter2++;
             }
+
+            i++;
+            j++;
         }
 
-        if (count1 == count2) {
-            return true;
-        }
-
-        return false;
+        return counter1 == counter2;
     }
 };
