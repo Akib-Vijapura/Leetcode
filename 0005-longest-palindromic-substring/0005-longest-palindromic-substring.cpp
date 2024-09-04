@@ -1,19 +1,21 @@
 class Solution {
 private:
-     
+    int dp[1001][1001];
     bool solve(int i, int j, string& s) {
 
         if (i >= j) {
             return true;
         }
 
-        
-
-        if (s[i] == s[j]) {
-            return  solve(i + 1, j - 1, s);
+        if(dp[i][j] != -1){
+            return dp[i][j];
         }
 
-        return    false;
+        if (s[i] == s[j]) {
+            return dp[i][j] = solve(i + 1, j - 1, s);
+        }
+
+        return dp[i][j] =  false;
     }
 
 public:
@@ -21,7 +23,7 @@ public:
         int maxLength = INT_MIN;
         int n = s.size();
         int start = 0;
-         
+        memset(dp , -1 , sizeof(dp));
 
         for (int i = 0; i < n; i++) {
             for (int j = i; j < n; j++) {
