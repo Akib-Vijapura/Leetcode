@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1755-defuse-the-bomb](https://github.com/Akib-Vijapura/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Akib-Vijapura/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -426,4 +427,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Akib-Vijapura/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akib-Vijapura/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1755-defuse-the-bomb](https://github.com/Akib-Vijapura/Leetcode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
