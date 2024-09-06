@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akib-Vijapura/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2580-circular-sentence](https://github.com/Akib-Vijapura/Leetcode/tree/master/2580-circular-sentence) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
