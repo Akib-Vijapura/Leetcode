@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Akib-Vijapura/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akib-Vijapura/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Akib-Vijapura/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Akib-Vijapura/Leetcode/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akib-Vijapura/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
