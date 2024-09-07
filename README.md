@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/Akib-Vijapura/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1127-last-stone-weight](https://github.com/Akib-Vijapura/Leetcode/tree/master/1127-last-stone-weight) |
+| [1319-unique-number-of-occurrences](https://github.com/Akib-Vijapura/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/Akib-Vijapura/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akib-Vijapura/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akib-Vijapura/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Akib-Vijapura/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akib-Vijapura/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1319-unique-number-of-occurrences](https://github.com/Akib-Vijapura/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Akib-Vijapura/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
