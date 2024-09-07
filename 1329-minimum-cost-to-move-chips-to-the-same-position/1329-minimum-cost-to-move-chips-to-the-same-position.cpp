@@ -14,12 +14,12 @@ public:
     }
 
     int minCostToMoveChips(vector<int>& position) {
-        int count1 = 0;
-        int count2 = 0;
+        int cost1 = 0;
+        int cost2 = 0;
 
-        count1 = solve(position , 0);
-        count2 = solve(position , 1);
+        cost1 = solve(position , 0);
+        cost2 = solve(position , 1);
 
-        return min(count1 , count2);
+        return min(cost1 , cost2);
     }
 };
