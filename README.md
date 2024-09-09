@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/Akib-Vijapura/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Akib-Vijapura/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akib-Vijapura/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Akib-Vijapura/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akib-Vijapura/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0906-walking-robot-simulation](https://github.com/Akib-Vijapura/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Akib-Vijapura/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/Akib-Vijapura/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Akib-Vijapura/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Akib-Vijapura/Leetcode/tree/master/1127-last-stone-weight) |
@@ -362,9 +367,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -373,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akib-Vijapura/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
