@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akib-Vijapura/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1319-unique-number-of-occurrences](https://github.com/Akib-Vijapura/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
+| [1647-can-convert-string-in-k-moves](https://github.com/Akib-Vijapura/Leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Akib-Vijapura/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Akib-Vijapura/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1542-consecutive-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/1542-consecutive-characters) |
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
+| [1647-can-convert-string-in-k-moves](https://github.com/Akib-Vijapura/Leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akib-Vijapura/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
