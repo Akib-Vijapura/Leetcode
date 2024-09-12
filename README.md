@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/Akib-Vijapura/Leetcode/tree/master/2580-circular-sentence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Akib-Vijapura/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3019-furthest-point-from-origin](https://github.com/Akib-Vijapura/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [3019-furthest-point-from-origin](https://github.com/Akib-Vijapura/Leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Graph
 |  |
 | ------- |
