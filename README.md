@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Akib-Vijapura/Leetcode/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Akib-Vijapura/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2650-split-with-minimum-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Tree
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Akib-Vijapura/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1542-consecutive-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/1542-consecutive-characters) |
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Akib-Vijapura/Leetcode/tree/master/1647-can-convert-string-in-k-moves) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akib-Vijapura/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Graph
