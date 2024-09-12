@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Akib-Vijapura/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Akib-Vijapura/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akib-Vijapura/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/Akib-Vijapura/Leetcode/tree/master/2580-circular-sentence) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Akib-Vijapura/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
