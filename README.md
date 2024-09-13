@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Akib-Vijapura/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/Akib-Vijapura/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Akib-Vijapura/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Akib-Vijapura/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akib-Vijapura/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Akib-Vijapura/Leetcode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Akib-Vijapura/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akib-Vijapura/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Akib-Vijapura/Leetcode/tree/master/0724-find-pivot-index) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Akib-Vijapura/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Queue
