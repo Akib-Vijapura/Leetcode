@@ -1,11 +1,15 @@
 class Solution {
 public:
 
-    bool foo(string s){
-        for(auto c : s){
-            if(c == '0'){
+    bool foo(int n){
+        while( n != 0){
+            int digit = n % 10;
+
+            if(digit == 0){
                 return false;
             }
+
+            n = n / 10;
         }
 
         return true;
@@ -16,11 +20,8 @@ public:
         int j = n-1;
 
         while(i <= j){
-            if(i + j == n){
-                string s1 = to_string(i);
-                string s2 = to_string(j);
-
-                if(foo(s1) and foo(s2)){
+            if(i + j == n){ 
+                if(foo(i) and foo(j)){
                     return {i , j};
                 }
             }
