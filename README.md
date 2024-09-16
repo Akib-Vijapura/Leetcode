@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Akib-Vijapura/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Akib-Vijapura/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akib-Vijapura/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Akib-Vijapura/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akib-Vijapura/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/Akib-Vijapura/Leetcode/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Akib-Vijapura/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0728-self-dividing-numbers](https://github.com/Akib-Vijapura/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Akib-Vijapura/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akib-Vijapura/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0539-minimum-time-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Akib-Vijapura/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/Akib-Vijapura/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0389-find-the-difference) |
+| [0539-minimum-time-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/Akib-Vijapura/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
