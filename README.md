@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/1542-consecutive-characters) |
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Akib-Vijapura/Leetcode/tree/master/1647-can-convert-string-in-k-moves) |
+| [1660-thousand-separator](https://github.com/Akib-Vijapura/Leetcode/tree/master/1660-thousand-separator) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akib-Vijapura/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
