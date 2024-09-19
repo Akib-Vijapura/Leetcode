@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Akib-Vijapura/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Akib-Vijapura/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Akib-Vijapura/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2122-count-special-quadruplets](https://github.com/Akib-Vijapura/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Akib-Vijapura/Leetcode/tree/master/0961-long-pressed-name) |
 | [2128-reverse-prefix-of-word](https://github.com/Akib-Vijapura/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Akib-Vijapura/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Stack
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2650-split-with-minimum-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Divide and Conquer
