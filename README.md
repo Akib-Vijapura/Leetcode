@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akib-Vijapura/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Akib-Vijapura/Leetcode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/Akib-Vijapura/Leetcode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akib-Vijapura/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -549,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0214-shortest-palindrome) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Akib-Vijapura/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
