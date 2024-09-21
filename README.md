@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akib-Vijapura/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akib-Vijapura/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Akib-Vijapura/Leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Akib-Vijapura/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Akib-Vijapura/Leetcode/tree/master/0055-jump-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akib-Vijapura/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Akib-Vijapura/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Akib-Vijapura/Leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0143-reorder-list) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Akib-Vijapura/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Akib-Vijapura/Leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0148-sort-list) |
