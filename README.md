@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Akib-Vijapura/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Akib-Vijapura/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Akib-Vijapura/Leetcode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akib-Vijapura/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
