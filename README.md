@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Akib-Vijapura/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Akib-Vijapura/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0598-range-addition-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0598-range-addition-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Akib-Vijapura/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akib-Vijapura/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Akib-Vijapura/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Akib-Vijapura/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0598-range-addition-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Akib-Vijapura/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akib-Vijapura/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
