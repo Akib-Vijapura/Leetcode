@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Akib-Vijapura/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akib-Vijapura/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akib-Vijapura/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0861-flipping-an-image](https://github.com/Akib-Vijapura/Leetcode/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/Akib-Vijapura/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Akib-Vijapura/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/0932-monotonic-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Akib-Vijapura/Leetcode/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/Akib-Vijapura/Leetcode/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akib-Vijapura/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Akib-Vijapura/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Akib-Vijapura/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Akib-Vijapura/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0861-flipping-an-image](https://github.com/Akib-Vijapura/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Akib-Vijapura/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Akib-Vijapura/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Akib-Vijapura/Leetcode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Akib-Vijapura/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0861-flipping-an-image](https://github.com/Akib-Vijapura/Leetcode/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/Akib-Vijapura/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Akib-Vijapura/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0861-flipping-an-image](https://github.com/Akib-Vijapura/Leetcode/tree/master/0861-flipping-an-image) |
 | [2035-count-sub-islands](https://github.com/Akib-Vijapura/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Akib-Vijapura/Leetcode/tree/master/2411-spiral-matrix-iv) |
