@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2755-extra-characters-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Akib-Vijapura/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Akib-Vijapura/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3429-special-array-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Akib-Vijapura/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Akib-Vijapura/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-furthest-point-from-origin](https://github.com/Akib-Vijapura/Leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Akib-Vijapura/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Akib-Vijapura/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Akib-Vijapura/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Akib-Vijapura/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
