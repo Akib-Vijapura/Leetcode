@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Akib-Vijapura/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Akib-Vijapura/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Akib-Vijapura/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2547-odd-string-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/2547-odd-string-difference) |
 | [2551-apply-operations-to-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Akib-Vijapura/Leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/Akib-Vijapura/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2155-find-missing-observations](https://github.com/Akib-Vijapura/Leetcode/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Akib-Vijapura/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2645-pass-the-pillow](https://github.com/Akib-Vijapura/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2650-split-with-minimum-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
