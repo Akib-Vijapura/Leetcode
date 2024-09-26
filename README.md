@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Akib-Vijapura/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Akib-Vijapura/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2547-odd-string-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/2547-odd-string-difference) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Akib-Vijapura/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-minimum-absolute-difference-queries](https://github.com/Akib-Vijapura/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2122-count-special-quadruplets](https://github.com/Akib-Vijapura/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2547-odd-string-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/2547-odd-string-difference) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Akib-Vijapura/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Akib-Vijapura/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Akib-Vijapura/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2547-odd-string-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/2547-odd-string-difference) |
 | [2580-circular-sentence](https://github.com/Akib-Vijapura/Leetcode/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Akib-Vijapura/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
