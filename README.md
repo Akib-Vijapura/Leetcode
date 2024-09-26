@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/Akib-Vijapura/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2650-split-with-minimum-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/Akib-Vijapura/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
 | ------- |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Akib-Vijapura/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2998-count-symmetric-integers](https://github.com/Akib-Vijapura/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Rolling Hash
 |  |
 | ------- |
