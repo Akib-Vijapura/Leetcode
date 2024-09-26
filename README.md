@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Akib-Vijapura/Leetcode/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Akib-Vijapura/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Akib-Vijapura/Leetcode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akib-Vijapura/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Akib-Vijapura/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/Akib-Vijapura/Leetcode/tree/master/0861-flipping-an-image) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Akib-Vijapura/Leetcode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akib-Vijapura/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Akib-Vijapura/Leetcode/tree/master/0441-arranging-coins) |
+| [0729-my-calendar-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akib-Vijapura/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Akib-Vijapura/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Akib-Vijapura/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0729-my-calendar-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0729-my-calendar-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -599,4 +602,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Akib-Vijapura/Leetcode/tree/master/0278-first-bad-version) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
