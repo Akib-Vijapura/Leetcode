@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akib-Vijapura/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Akib-Vijapura/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akib-Vijapura/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/Akib-Vijapura/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/Akib-Vijapura/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Akib-Vijapura/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Akib-Vijapura/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akib-Vijapura/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Akib-Vijapura/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Akib-Vijapura/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Akib-Vijapura/Leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akib-Vijapura/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Akib-Vijapura/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0432-all-oone-data-structure](https://github.com/Akib-Vijapura/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Akib-Vijapura/Leetcode/tree/master/0859-design-circular-deque) |
@@ -643,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Akib-Vijapura/Leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
