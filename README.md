@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Akib-Vijapura/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Akib-Vijapura/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akib-Vijapura/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Akib-Vijapura/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akib-Vijapura/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Akib-Vijapura/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Akib-Vijapura/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Akib-Vijapura/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Akib-Vijapura/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Akib-Vijapura/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Akib-Vijapura/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Akib-Vijapura/Leetcode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Akib-Vijapura/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
