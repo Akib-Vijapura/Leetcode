@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Akib-Vijapura/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Akib-Vijapura/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1923-sentence-similarity-iii](https://github.com/Akib-Vijapura/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Akib-Vijapura/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2035-count-sub-islands](https://github.com/Akib-Vijapura/Leetcode/tree/master/2035-count-sub-islands) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Akib-Vijapura/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Akib-Vijapura/Leetcode/tree/master/0961-long-pressed-name) |
+| [1923-sentence-similarity-iii](https://github.com/Akib-Vijapura/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/Akib-Vijapura/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akib-Vijapura/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Akib-Vijapura/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1923-sentence-similarity-iii](https://github.com/Akib-Vijapura/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akib-Vijapura/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/Akib-Vijapura/Leetcode/tree/master/2128-reverse-prefix-of-word) |
