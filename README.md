@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Akib-Vijapura/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Akib-Vijapura/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Akib-Vijapura/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Akib-Vijapura/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2755-extra-characters-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Akib-Vijapura/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Akib-Vijapura/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Akib-Vijapura/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Akib-Vijapura/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2650-split-with-minimum-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Tree
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Akib-Vijapura/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Akib-Vijapura/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Akib-Vijapura/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Akib-Vijapura/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/Akib-Vijapura/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Quickselect
