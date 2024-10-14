@@ -9,7 +9,7 @@ public:
             int top = pq.top();
             pq.pop();
 
-            pq.push( top - floor(top/2.0));
+            pq.push(ceil(top/2.0));
             k--;
         }
 
