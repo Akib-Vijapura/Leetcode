@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Akib-Vijapura/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Akib-Vijapura/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1899-count-items-matching-a-rule](https://github.com/Akib-Vijapura/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/Akib-Vijapura/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Akib-Vijapura/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Akib-Vijapura/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1899-count-items-matching-a-rule](https://github.com/Akib-Vijapura/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/Akib-Vijapura/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/Akib-Vijapura/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akib-Vijapura/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
