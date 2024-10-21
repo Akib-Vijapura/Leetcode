@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Akib-Vijapura/Leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1694-make-sum-divisible-by-p](https://github.com/Akib-Vijapura/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Akib-Vijapura/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Akib-Vijapura/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Akib-Vijapura/Leetcode/tree/master/1619-path-crossing) |
 | [1647-can-convert-string-in-k-moves](https://github.com/Akib-Vijapura/Leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1660-thousand-separator](https://github.com/Akib-Vijapura/Leetcode/tree/master/1660-thousand-separator) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Akib-Vijapura/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Akib-Vijapura/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akib-Vijapura/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0113-path-sum-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Combinatorics
 |  |
 | ------- |
