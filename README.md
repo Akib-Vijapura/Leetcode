@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Akib-Vijapura/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/Akib-Vijapura/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Akib-Vijapura/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Akib-Vijapura/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1899-count-items-matching-a-rule](https://github.com/Akib-Vijapura/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Akib-Vijapura/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Akib-Vijapura/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Akib-Vijapura/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Akib-Vijapura/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2650-split-with-minimum-sum](https://github.com/Akib-Vijapura/Leetcode/tree/master/2650-split-with-minimum-sum) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Akib-Vijapura/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Akib-Vijapura/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Akib-Vijapura/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Akib-Vijapura/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Akib-Vijapura/Leetcode/tree/master/2634-minimum-common-value) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/Akib-Vijapura/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1013-fibonacci-number](https://github.com/Akib-Vijapura/Leetcode/tree/master/1013-fibonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Akib-Vijapura/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Akib-Vijapura/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Akib-Vijapura/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akib-Vijapura/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
